@@ -302,6 +302,7 @@ section {
 
 #about {
     position: relative;
+    margin-bottom: 80px;
 }
 
 .about-containers {
@@ -356,7 +357,7 @@ section {
 #experience {
     position: relative;
     padding: 60px 0;
-    background: #F6F0F0;
+    margin-top: 200px;
 }
 
 .experience-sub-title {
